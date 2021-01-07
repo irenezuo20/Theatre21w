@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{674077ED-1368-6235-340F-97407FD43B3F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AvatarManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AvatarManager.cs" Line="28" Column="22" />
+      <File FileName="Assets/Scripts/Launcher.cs" />
+      <File FileName="Assets/Scripts/NetworkVoiceManager.cs" />
+      <File FileName="../Downloads/TCG-master/Assets/Scripts/Networking/PhotonViewParentableObject.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Theatre" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="AvatarManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9881954d-6f77-4a22-8351-6ee480d90c5f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
