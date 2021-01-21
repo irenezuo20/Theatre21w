@@ -29,7 +29,6 @@ Theatre/[Mm]emoryCaptures/
 Theatre/ExportedObj/
 Theatre/.consulo/
 *.csproj
-Theatre/PunDemos.DemoHubEditor.csproj
 *.unityproj
 *.sln
 *.suo

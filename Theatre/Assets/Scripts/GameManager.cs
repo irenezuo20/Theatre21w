@@ -17,6 +17,7 @@ using Photon.Realtime;
     #region Public Fields
     [Tooltip("The prefab to use for representing the player")]
     public GameObject playerPrefab;
+    public GameObject OVRPlayerController;
     //public GameObject leftHand;
     //public GameObject rightHand;
 
@@ -59,6 +60,13 @@ using Photon.Realtime;
             {
                 PhotonNetwork.LeaveRoom();
             }
+
+    // public void JoinPracticeRoom()
+    // {
+    //     Scene sceneToLoad = SceneManager.GetSceneByName("Practice Room");
+    //     SceneManager.LoadScene(sceneToLoad.name, LoadSceneMode.Additive);
+    //     SceneManager.MoveGameObjectToScene(OVRPlayerController, sceneToLoad);
+    // }
 
 
     #endregion
